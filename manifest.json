@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Motivational Quotes on New Tab",
+    "version": "1.0",
+    "description": "Displays a random motivational quote every time a new tab is opened.",
+    "author": "Your Name",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": []
+  }
+  
